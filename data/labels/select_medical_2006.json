@@ -1,0 +1,19 @@
+{
+  "lease_id": "select_medical_2006",
+  "source_file": "data/raw/lease2.pdf",
+  "split": "tune",
+  "fields": {
+    "commencement_date": {
+      "status": "found",
+      "normalized": {"date": "YYYY-MM-DD", "basis": "explicit_date"},
+      "clause_ref": "Section X.X",
+      "quote": "exact text copied from the loader output"
+    },
+    "base_rent_schedule": {
+      "status": "found",
+      "normalized": {"schedule": [{"start": null, "end": null, "amount": 0, "unit": "per_year"}]},
+      "clause_ref": "Section X.X",
+      "quote": "exact text copied from the loader output"
+    }
+  }
+}

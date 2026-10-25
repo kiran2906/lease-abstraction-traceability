@@ -1,0 +1,10 @@
+__pycache__/
+*.egg-info/
+.venv/
+.env
+.pytest_cache/
+# Raw leases are public EDGAR files; list their URLs in data/SOURCES.md instead of committing them
+data/raw/*
+!data/raw/.gitkeep
+# Cached model outputs (evals/results/ holds the summaries you do commit)
+outputs/

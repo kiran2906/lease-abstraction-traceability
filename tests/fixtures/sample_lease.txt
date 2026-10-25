@@ -1,0 +1,18 @@
+OFFICE LEASE AGREEMENT
+
+This Office Lease Agreement (this "Lease") is made as of January 15, 2024, between Example Properties LLC ("Landlord") and Sample Tenant Inc. ("Tenant").
+
+ARTICLE 2. TERM
+
+Section 2.1 Commencement Date. The term of this Lease shall commence on March 1, 2024 (the "Commencement Date") and shall expire on February 28, 2029, unless sooner terminated.
+
+ARTICLE 3. RENT
+
+Section 3.1 Base Rent. Tenant shall pay annual base rent in equal monthly installments as follows:
+
+Lease Year | Annual Base Rent | Monthly Installment
+Year 1 | $120,000.00 | $10,000.00
+Year 2 | $123,600.00 | $10,300.00
+Year 3 | $127,308.00 | $10,609.00
+
+Section 3.2 Additional Rent. Tenant shall pay its proportionate share of Operating Expenses.
